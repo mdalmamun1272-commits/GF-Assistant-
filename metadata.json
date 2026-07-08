@@ -1,0 +1,6 @@
+{
+  "name": "GF AI Assistant",
+  "description": "A sassy, confident, and flirty real-time voice-to-voice girlfriend AI assistant powered by Gemini Live.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
